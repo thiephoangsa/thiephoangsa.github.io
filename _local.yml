@@ -1,0 +1,12 @@
+# Site settings
+host: 0.0.0.0
+title: Thiệp cưới Phúc Lộc
+email: thiepcuoiphucloc@gmail.com
+description: thiệp mời, thiệp cưới, thiệp chúc mừng, in nhanh, chuyên in thiệp, in thiệp mời tại Hà Nội
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: thiepcuoiphucloc
+github_username:  xabeng
+
+# Build settings
+markdown: kramdown

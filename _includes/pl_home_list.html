@@ -1,0 +1,43 @@
+
+<div class="row grey lighten-4 center-align">
+  <p class="intro flow-text pink-text text-darken-2">Bổn tiệm cập nhật bộ mẫu thiệp mới năm 2016.<br>
+  Rất là đẹp quá! Kính mời quý vị xem và đặt hàng. Mau lên...!<br>
+  Đặt càng sớm, giá càng rẻ lắm.</p>
+</div>
+
+<div class="row">
+  <div class="grid grey lighten-4">
+      {% for post in site.posts limit: 15 %}
+        
+        {% include pl_post_item.html %}
+
+      {% endfor %}
+
+  </div>
+
+  <div class="section grey lighten-4 center-align">
+    <img class="circle hoverable" src="{{ site.baseurl }}/imgs/xemsp.png">
+  </div>
+
+</div>
+
+
+<div class="call_to_action row center-align grey lighten-4">
+  <p>{{ site.title }} đáp ứng mọi yêu cầu in ấn, gia công thiệp cưới, thiệp mời, thiệp báo hỷ... Chuyên nghiệp sản xuất từ 1994. Gia công tỉ mỉ, giao hàng đúng hẹn. Có sẵn nhiều mẫu để khách lựa chọn. Mọi yêu cầu, mọi số lượng đều được hoan nghênh. Đặt hàng càng sớm, giá càng rẻ. Hãy mau gọi ngay hôm nay. Khách hàng có thể tự thiết kế với sự hỗ trợ của hoạ sĩ thiết kế chuyên nghiệp. <span class="pink-text">Mời liên hệ Mr. Trần Oánh - <strong>090 341 2935</strong></span>.</p>
+</div>
+
+<footer class="kinhmoi row center-align grey lighten-4">
+  <p class="hide-on-small-only">Đám cưới có thể thiếu nhiều thứ, kể cả cô dâu chú rể.<br>Nhưng tuyệt đối không thể thiếu khách mời.<br>
+  Trân trọng kính mời quý anh chị tới xem và đặt hàng thiệp cưới.<br>
+  Bất kỳ lúc nào trong ngày.<br>
+  Tại: <span><strong>44 ngõ 91 Văn Cao, Ba Đình, Hà Nội.</strong></span><br>
+  Bổn tiệm rất hân hạnh được đón tiếp.</p>
+
+  <p class="hide-on-med-and-up"><strong>{{ site.title }}</strong><br>
+  Hoan nghênh quý khách tới xem và đặt hàng<br>thiệp mời, thiệp cưới, thiệp báo hỷ...<br>
+  Tại: <span><strong>44 ngõ 91 Văn Cao, Ba Đình, Hà Nội.</strong></span><br>
+  Rất hân hạnh được đón tiếp.</p>
+
+
+
+</footer>

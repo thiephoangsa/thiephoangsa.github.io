@@ -1,0 +1,34 @@
+{% if page.js %}
+{% for js in page.js %}
+<script src="{{ js | prepend: site.baseurl | replace: '//', '/' }}"></script>
+{% endfor %}
+{% endif %}
+
+<script type="text/javascript">
+	
+$(document).ready(function() {
+
+  var $boxes = $('.grid-item');
+  $boxes.hide();
+
+  var $container = $('.grid');
+  $container.imagesLoaded( function() {
+    $boxes.fadeIn();
+
+    $container.masonry({
+        itemSelector : '.grid-item'
+    });    
+  });
+});
+
+</script>
+
+<script type="text/javascript">
+	
+$(document).ready(function(){
+    // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
+    $('.modal-trigger').leanModal();
+  });
+
+</script>
+

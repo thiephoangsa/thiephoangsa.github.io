@@ -1,0 +1,40 @@
+---
+css:
+- "/css/main.css"
+
+ext_css:
+- "//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
+
+fonts:
+- "http://fonts.googleapis.com/css?family=Roboto:400,300,700&subset=latin,latin-ext,vietnamese"
+
+js:
+- "/js/jquery-1.11.3.min.js"
+- "/js/materialize.min.js"
+- "/js/masonry.min.js"
+- "/js/imageloaded.min.js"
+
+
+ext-js:
+
+---
+
+<!DOCTYPE html>
+<html lang="en">
+{% include site_head.html %}
+
+<body class="pink darken-3">
+
+  {% include pl_header.html %}
+
+  <div class="container">
+
+
+  {% include pl_home_list.html %}
+
+  </div>
+
+{% include site_scripts.html %}
+</body>
+
+</html>

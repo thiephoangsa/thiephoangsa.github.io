@@ -1,0 +1,61 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Import css files or
+// Import partials from `sass_dir` (defaults to `_sass`)
+// @import
+//	"name1", "name2"
+//;
+
+@import "materialize";
+
+.brand {
+	a { color: #fff; }
+	h1 { font-size: 2.4em; font-weight:700; margin:0; padding: 0; }
+}
+.nav_big { 
+	padding-top: 6em;
+	background: url('/imgs/header.png') no-repeat center top;
+}
+
+.row {
+	margin: 0;
+}
+
+.intro, .call_to_action, .kinhmoi {
+	padding: 2em 0 1em;
+	margin: 0;
+}
+
+.call_to_action p {
+	font-size:1.2em;
+	font-weight:300;
+	padding: 0 3em;
+	text-align: justify;
+	text-justify: inter-word;
+}
+.grid {
+	margin: 0 auto;
+	padding-bottom: 5em;
+}
+
+.grid-item {
+	padding: 0; 
+	article { background: #fff; }
+}
+
+.card-panel {
+	padding: 0;
+	a { display:block; width: 100%; }
+}
+
+.modal-content h4 { font-size:2em; font-weight:700; text-transform: uppercase; }
+
+footer {
+	height: 500px;
+	background: url('/imgs/footer.png') no-repeat bottom center;
+}
