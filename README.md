@@ -31,4 +31,5 @@ nơ bằng lụa Vạn Phúc, in bằng máy in Roland 20 tỉ, mời khách b�
 
 1. Chụp ảnh, chỉnh sửa, cắt ghép... Hình ảnh cuối cùng chỉ nên để chiều rộng tối đa 960px. Lưu thành định dạng `.jpg`. Nên đặt tên ảnh trùng với mã số cho tiện theo dõi về sau. Ví dụ `THS_MS0005_ANHTO.jpg`, làm một phiên bản nhỏ hơn (chiều rộng tối đa 500px). Cũng lưu định dạng `.jpg` nhưng đặt tên khác. Ví dụ: `THS_MS0005_ANHBE.jpg`.
 2. Tải hình ảnh lên một host miễn phí nào đó, dịch vụ này miễn phí rất nhiều trên mạng. Ví dụ [dropbox](http://dropbox.com).
-3. Copy đường dẫn hình ảnh và dán vào mục khai báo tương ứng. Mục `preview` là dành cho ảnh bé, mục `full` là dành cho ảnh to.
+3. Copy đường dẫn hình ảnh và dán vào mục khai báo tương ứng. Mục `preview` là dành cho ảnh bé, mục `full` là dành cho ảnh to. (xem lại phần khai báo mục trên).
+4. Tham khảo thêm các file mẫu trong thư mục `_posts`.
