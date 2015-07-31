@@ -6,17 +6,20 @@ Liên hệ: mr. Trần Oánh - 090.341.2935
 
 ---
 
-Nội dung cần chuẩn bị cho hình ảnh đưa lên:
+Nội dung cần khai báo cho mỗi post. Trừ các mục đánh dấu _bắt buộc có thông tin_. Các mục khác có thể để trống.
 
 ```
 ---
-layout: post // default
-title:  // tên loại thiệp, không bắt buộc có thông tin
-desc: // mô tả loại thiệp, không bắt buộc có thông tin.
-code: pl001 // bắt buộc có thông tin, không được trùng lặp
+layout: post // default, không thay đổi
+title:  // tên loại thiệp
+desc: // mô tả loại thiệp
+code: // mã số thiệp, bắt buộc có thông tin, không được trùng lặp
 tags: // kiểu thiệp hoặc loại thiệp, có thông tin về sau phân loại tiện hơn
-price: // giá, không bắt buộc có thông tin
-preview: // hình ảnh thu nhỏ (chiều ngang lớn nhất 500px)
-full: // hình ảnh hiển thị, chiều ngang lớn nhất 960px
+price: // giá cả
+preview: // hình ảnh thu nhỏ (chiều ngang lớn nhất 500px), bắt buộc có thông tin
+full: // hình ảnh hiển thị, chiều ngang lớn nhất 960px, bắt buộc có thông tin
 ---
+
+Khoe khoang bất kỳ điều gì về mẫu thiệp ở đây. Ví dụ hoa văn làm bằng vàng 24K, nơ bằng lụa Vạn Phúc, in bằng máy in Roland 20tỉ, mời khách bằng thiệp này nhất định đẻ con giai đầu lòng, vân vân...
+
 ```
