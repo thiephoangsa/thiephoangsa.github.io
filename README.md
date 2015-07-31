@@ -6,7 +6,9 @@ Liên hệ: mr. Trần Oánh - 090.341.2935
 
 ---
 
-Nội dung cần khai báo cho mỗi post. Trừ các mục đánh dấu _bắt buộc có thông tin_. Các mục khác có thể để trống.
+## Nội dung cần khai báo cho mỗi post. 
+
+Trừ các mục đánh dấu _bắt buộc có thông tin_. Các mục khác có thể để trống.
 
 ```
 ---
@@ -21,7 +23,12 @@ full: // hình ảnh hiển thị, chiều ngang lớn nhất 960px, bắt buộ
 ---
 
 Khoe khoang bất kỳ điều gì về mẫu thiệp ở đây. Ví dụ hoa văn làm bằng vàng 24K, 
-nơ bằng lụa Vạn Phúc, in bằng máy in Roland 20tỉ, mời khách bằng thiệp này nhất định 
+nơ bằng lụa Vạn Phúc, in bằng máy in Roland 20 tỉ, mời khách bằng thiệp này nhất định 
 đẻ con giai đầu lòng, vân vân...
 
 ```
+## Chuẩn bị hình ảnh như thế nào:
+
+1. Chụp ảnh, chỉnh sửa, cắt ghép... Hình ảnh cuối cùng chỉ nên để chiều rộng tối đa 960px. Lưu thành định dạng `.jpg`. Nên đặt tên ảnh trùng với mã số cho tiện theo dõi về sau. Ví dụ `THS_MS0005_ANHTO.jpg`, làm một phiên bản nhỏ hơn (chiều rộng tối đa 500px). Cũng lưu định dạng `.jpg` nhưng đặt tên khác. Ví dụ: `THS_MS0005_ANHBE.jpg`.
+2. Tải hình ảnh lên một host miễn phí nào đó, dịch vụ này miễn phí rất nhiều trên mạng. Ví dụ [dropbox](http://dropbox.com).
+3. Copy đường dẫn hình ảnh và dán vào mục khai báo tương ứng. Mục `preview` là dành cho ảnh bé, mục `full` là dành cho ảnh to.
