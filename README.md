@@ -2,7 +2,7 @@ Cơ sở sản xuất Hoàng Sa chuyên nghiệp sản xuất các loại thiệ
 
 ---
 
-Liên hệ: mr. Trần Oánh - 090.341.2935
+:phone: Liên hệ: mr. Trần Oánh - 090.341.2935
 
 ---
 
