@@ -20,6 +20,8 @@ preview: // hình ảnh thu nhỏ (chiều ngang lớn nhất 500px), bắt bu�
 full: // hình ảnh hiển thị, chiều ngang lớn nhất 960px, bắt buộc có thông tin
 ---
 
-Khoe khoang bất kỳ điều gì về mẫu thiệp ở đây. Ví dụ hoa văn làm bằng vàng 24K, nơ bằng lụa Vạn Phúc, in bằng máy in Roland 20tỉ, mời khách bằng thiệp này nhất định đẻ con giai đầu lòng, vân vân...
+Khoe khoang bất kỳ điều gì về mẫu thiệp ở đây. Ví dụ hoa văn làm bằng vàng 24K, 
+nơ bằng lụa Vạn Phúc, in bằng máy in Roland 20tỉ, mời khách bằng thiệp này nhất định 
+đẻ con giai đầu lòng, vân vân...
 
 ```
