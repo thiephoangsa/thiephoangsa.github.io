@@ -10,7 +10,7 @@ Liên hệ: mr. Trần Oánh - 090.341.2935
 
 Trừ các mục đánh dấu _bắt buộc có thông tin_. Các mục khác có thể để trống.
 
-```
+```yaml
 ---
 layout: post // default, không thay đổi
 title:  // tên loại thiệp
