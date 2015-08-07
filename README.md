@@ -33,3 +33,9 @@ nơ bằng lụa Vạn Phúc, in bằng máy in Roland 20 tỉ, mời khách b�
 2. Tải hình ảnh lên một host miễn phí nào đó, dịch vụ này miễn phí rất nhiều trên mạng. Ví dụ [dropbox](http://dropbox.com).
 3. Copy đường dẫn hình ảnh và dán vào mục khai báo tương ứng. Mục `preview` là dành cho ảnh bé, mục `full` là dành cho ảnh to. (xem lại phần khai báo mục trên).
 4. Tham khảo thêm các file mẫu trong thư mục `_posts`.
+
+## Todo:
+
+- Nhắc k/h chuẩn bị hình ảnh
+- Trang sản phẩm (lọc hình ảnh thế nào?)
+- Trang liên hệ: call to action, google maps...
